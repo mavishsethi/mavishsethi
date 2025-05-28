@@ -3,10 +3,8 @@
 ### 🌱 About Me
 
 - 🎓 Currently pursuing **B.Tech in CSE**
-- 💻 Actively practicing DSA on [LeetCode](https://leetcode.com/u/Mavish_sethi/)
 - 🚀 Building full-stack apps with the **MERN Stack**
-- 📫 How to reach me: **mavishsethi@gamil.com**
-- 💬 Ask me about **React, MongoDB, Node.js, Express, or DSA**
+- 💬 Ask me about **React, MongoDB, Node.js, Express**
 - 🔭 Currently working on: `AI-powered dynamic price comparator `, `Exam Portal System`
 
 ---
