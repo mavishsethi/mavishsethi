@@ -1,8 +1,4 @@
-# Mavish_sethi
 <h1 align="center">Hi 👋, I'm Mavish Sethi</h1>
-<h3 align="center">A passionate Developer & Problem Solver</h3>
-
-
 ---
 
 ### 🌱 About Me
