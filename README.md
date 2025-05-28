@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mavish Sethi</h1>
----
 
 ### 🌱 About Me
 
