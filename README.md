@@ -6,7 +6,7 @@
 - 🚀 Skilled in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - 🔬 Exploring the intersection of **AI & Web Development**
 - 🔭 Currently working on:
-  - 🛒 ** Price Intel**
+  - 🛒 **Price Intel**
   - 🏫 **Smart Exam Portal System**
 
 ---
