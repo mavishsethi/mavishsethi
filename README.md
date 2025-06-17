@@ -2,14 +2,14 @@
 
 ### 🌱 About Me
 
-- 🎓 Currently pursuing **B.Tech in CSE**
-- 🚀 Building full-stack apps with the **MERN Stack**
-- 💬 Ask me about **React, MongoDB, Node.js, Express**
-- 🔭 Currently working on: `AI-powered dynamic price comparator `, `Exam Portal System`
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering**
+- 🚀 Skilled in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- 🔬 Exploring the intersection of **AI & Web Development**
+- 🔭 Currently working on:
+  - 🛒 ** Price Intel**
+  - 🏫 **Smart Exam Portal System**
 
 ---
-
-
 ### 📫 Let's Connect
 
 <p>
