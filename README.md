@@ -7,7 +7,7 @@
 - 🔬 Exploring the intersection of **AI & Web Development**
 - 🔭 Currently working on:
   - 🛒 **Price Intel**
-  - 🏫 **Smart Exam Portal System**
+  - 🏫 **InterviewVault**
 
 ---
 ### 📫 Let's Connect
