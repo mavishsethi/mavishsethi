@@ -13,7 +13,7 @@
 - 🚀 Skilled in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - 🔬 Exploring the intersection of **AI & Web Development**
 - 🔭 Currently working on:
-  - 🛒 [**Price Intel**](https://github.com/mavishsethi/PriceIntel) — Smart price comparison tool
+  - 🛒 [**Price Intel**](https://github.com/mavishsethi/Price_Intel) — Smart price comparison tool
   - 🏫 [**InterviewVault**](https://github.com/mavishsethi/InterviewVault) — Real interview experiences for smarter prep
 
 ---
